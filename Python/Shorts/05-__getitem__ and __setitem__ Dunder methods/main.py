@@ -8,7 +8,6 @@ class CustomList:
     def __setitem__(self, index, value):
         self.items[index] = value
 
-
 # Creating an instance of the CustomList class
 my_list = CustomList()
 
